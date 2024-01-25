@@ -1,0 +1,15 @@
+:root {
+	--primary: A94438;
+	--secondary: D24545;
+	--light: E6BAA3;
+	--bg: E4DEBE;
+}
+
+html {
+	font-size: 16px;
+}
+
+.title {
+	font-size: 3rem;
+	font-family: pacifico, cursive;
+}
